@@ -1,0 +1,22 @@
+{
+  "name": "npm_express_tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issam64/npm_express_tuto.git"
+  },
+  "author": "issam jebrane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/issam64/npm_express_tuto/issues"
+  },
+  "homepage": "https://github.com/issam64/npm_express_tuto#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
